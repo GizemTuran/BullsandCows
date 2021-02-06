@@ -1,0 +1,7 @@
+﻿  hands.c
+C:\Users\gizem\source\repos\Project3\Project3\hands.c(12,18): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\gizem\source\repos\Project3\Project3\hands.c(43,15): warning C4047: 'işlev': 'char *', yöneltme düzeyi sayısı bakımından 'char **' ile aynı değil
+C:\Users\gizem\source\repos\Project3\Project3\hands.c(43,9): warning C4024: 'strcpy': 1 biçimsel ve gerçek parametresi için farklı türler
+C:\Users\gizem\source\repos\Project3\Project3\hands.c(49,34): warning C4028: '1' biçimsel parametresi bildirimden farklı
+C:\Users\gizem\source\repos\Project3\Project3\hands.c(82,11): warning C4477: 'printf' : '%s' biçim dizesi 'char *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int'
+  Project3.vcxproj -> C:\Users\gizem\source\repos\Project3\Debug\Project3.exe
